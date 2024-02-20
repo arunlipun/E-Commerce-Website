@@ -1,0 +1,50 @@
+ /* p{
+    border: 2px rgba(19, 21, 22, 0.148);
+    background-color: rgba(47, 186, 255, 0.234);
+ }
+ a{
+    border-color: rgb(11, 125, 226);
+    background-color: aquamarine;
+
+ }
+ .red{
+background-color: rgb(196, 14, 241);
+
+ }
+ .black{
+   background-image: url('Screenshot 2024-01-20 232553.png');
+ }
+ #firstdiv{
+   background-color: rgb(5, 174, 44);
+
+ } */
+ body{
+  font-family: sans-serif;
+  background-color: black;
+  margin: 0;
+  padding: 0;
+
+ }
+ header{
+  background-color: whitesmoke;
+  padding: 20px;
+ }
+ nav ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+ }
+ nav li{
+  /* background-color: red; */
+  display: inline-block;
+  margin-right: 20px;
+ }
+ main{
+  padding: 30px;
+ }
+ footer{
+  text-align: center;
+  padding: 10px;
+  background-color:aqua;
+ }
